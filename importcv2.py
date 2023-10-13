@@ -1,16 +1,7 @@
 import cv2
 import numpy as np
 import random
-
-# Now you can use functions from the random module, e.g.:
-random_number = random.randint(1, 10)
-print("Random number between 1 and 10:", random_number)
-
-import os
-from PIL import Image
-import time
-
-# Now you can use functions from the time module, e.g.:
+.g.:
 start_time = time.time()
 # do something
 end_time = time.time()
